@@ -1,0 +1,13 @@
+name = "23rd Operations Util";
+author = "Underwater Assassin (Robnew)";
+picture = "logo.paa";
+logoSmall = "logo.paa";
+logo = "logo.paa";
+logoOver = "logo.paa";
+actionName = "Arma 3";
+action = "www.arma3.com";
+tooltipOwned = "A compilation of 23rd mods";
+overview = "A compilation of 23rd mods.";
+overviewPicture = "logo.paa";
+overviewText = "A compilation of 23rd mods.";
+overviewFootnote = "";

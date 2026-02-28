@@ -1,0 +1,107 @@
+
+	_________                    .___.__  __          
+	\_   ___ \_______   ____   __| _/|__|/  |_  ______
+	/    \  \/\_  __ \_/ __ \ / __ | |  \   __\/  ___/
+	\     \____|  | \/\  ___// /_/ | |  ||  |  \___ \ 
+	 \______  /|__|    \___  >____ | |__||__| /____  >
+	        \/             \/     \/               \/ 
+			
+˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭
+None of the authors listed below explicitly endorse this project or any other authors associated with the project.
+
+ACEView
+https://steamcommunity.com/sharedfiles/filedetails/?id=3372876344
+
+Advanced Vault System: Remastered
+https://steamcommunity.com/sharedfiles/filedetails/?id=2794721649
+
+Advanced Garbage Collector
+https://steamcommunity.com/sharedfiles/filedetails/?id=1724884525
+
+AI avoids prone
+https://steamcommunity.com/sharedfiles/filedetails/?id=2011658088
+
+AI Helicopter Decelerate No Climbing
+https://steamcommunity.com/sharedfiles/filedetails/?id=3496308284
+
+Alternative Running
+https://steamcommunity.com/sharedfiles/filedetails/?id=2198339170
+
+Arma 3 Performance Extension
+https://steamcommunity.com/sharedfiles/filedetails/?id=2565965887
+
+Client's FPS, Displayed for Zeus
+https://steamcommunity.com/sharedfiles/filedetails/?id=897295039
+
+Digital Kompass
+https://steamcommunity.com/sharedfiles/filedetails/?id=2013447932
+
+Exocet Immersive Reloads
+https://steamcommunity.com/sharedfiles/filedetails/?id=2931770233
+
+Grenades In Tank Hatches for ACE
+https://steamcommunity.com/sharedfiles/filedetails/?id=2398240266
+
+Gruppe Adler Trenches
+https://steamcommunity.com/sharedfiles/filedetails/?id=1224892496
+
+Immersive Hud
+https://steamcommunity.com/sharedfiles/filedetails/?id=3581479215
+
+Improved Craters
+https://steamcommunity.com/sharedfiles/filedetails/?id=2886141254
+
+Incoming Transmission
+https://steamcommunity.com/sharedfiles/filedetails/?id=3617577520
+
+Incoming Transmission - Pings
+https://steamcommunity.com/sharedfiles/filedetails/?id=3620108975
+
+Incoming Transmission - Intel
+https://steamcommunity.com/sharedfiles/filedetails/?id=3621745931
+
+Ladder Tweak Remastered
+https://steamcommunity.com/sharedfiles/filedetails/?id=2969350304
+
+MRB Air & Vehicle, Sea Vessel Visibility
+https://steamcommunity.com/sharedfiles/filedetails/?id=929396506
+https://steamcommunity.com/sharedfiles/filedetails/?id=930903722
+https://steamcommunity.com/sharedfiles/filedetails/?id=1845100804
+
+No Hit Animation
+https://steamcommunity.com/sharedfiles/filedetails/?id=1767626451
+
+Project SFX: Footsteps
+https://steamcommunity.com/sharedfiles/filedetails/?id=2806487814
+
+Prone Launcher
+http://steamcommunity.com/sharedfiles/filedetails/?id=1841047025
+
+Realistic Ragdoll Physics
+https://steamcommunity.com/sharedfiles/filedetails/?id=3639557777
+
+Reduced Weapon Sway
+https://steamcommunity.com/sharedfiles/filedetails/?id=2295886908
+
+Remove Stamina - ACE 3
+https://steamcommunity.com/sharedfiles/filedetails/?id=632435682
+both required
+> https://steamcommunity.com/sharedfiles/filedetails/?id=782415569
+
+Simple MapTools
+https://steamcommunity.com/sharedfiles/filedetails/?id=2013446344
+
+Splendid Smoke Rework (Fixed Signatures)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2975443457
+
+Unconscious Collision Disabler
+https://steamcommunity.com/sharedfiles/filedetails/?id=3450571478
+
+WBK Immersive Animations
+https://steamcommunity.com/sharedfiles/filedetails/?id=3165450999
+
+WBK Simple Blood
+https://steamcommunity.com/sharedfiles/filedetails/?id=3132949782
+
+ZEI - Zeus and Eden Interiors
+https://steamcommunity.com/sharedfiles/filedetails/?id=1251859358
