@@ -14,8 +14,8 @@ class CfgRemoteExec
 {
     class Functions
     {
-        mode = 1;
-        jip = 1;
+        mode = 2;
+        jip = 0;
 
         // Client-local UI/actions
         class ITR_INT_fnc_showIntelCard

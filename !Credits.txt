@@ -12,6 +12,9 @@ None of the authors listed below explicitly endorse this project or any other au
 ACEView
 https://steamcommunity.com/sharedfiles/filedetails/?id=3372876344
 
+ACSTG AI Cannot See Through Grass
+https://steamcommunity.com/sharedfiles/filedetails/?id=2946868556
+
 Advanced Vault System: Remastered
 https://steamcommunity.com/sharedfiles/filedetails/?id=2794721649
 
@@ -30,8 +33,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2198339170
 Arma 3 Performance Extension
 https://steamcommunity.com/sharedfiles/filedetails/?id=2565965887
 
-Client's FPS, Displayed for Zeus
-https://steamcommunity.com/sharedfiles/filedetails/?id=897295039
+BackpackOnChest - Redux
+https://steamcommunity.com/sharedfiles/filedetails/?id=2372036642
 
 Digital Kompass
 https://steamcommunity.com/sharedfiles/filedetails/?id=2013447932
@@ -62,6 +65,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3621745931
 
 Ladder Tweak Remastered
 https://steamcommunity.com/sharedfiles/filedetails/?id=2969350304
+
+Luminous Chemlights
+https://steamcommunity.com/sharedfiles/filedetails/?id=3706674360
 
 MRB Air & Vehicle, Sea Vessel Visibility
 https://steamcommunity.com/sharedfiles/filedetails/?id=929396506
@@ -103,8 +109,14 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3450571478
 WBK Immersive Animations
 https://steamcommunity.com/sharedfiles/filedetails/?id=3165450999
 
+WBK Simple Animations
+https://steamcommunity.com/sharedfiles/filedetails/?id=3466650326
+
 WBK Simple Blood
 https://steamcommunity.com/sharedfiles/filedetails/?id=3132949782
 
 ZEI - Zeus and Eden Interiors
 https://steamcommunity.com/sharedfiles/filedetails/?id=1251859358
+
+Zeus Framerate Monitor Rework
+https://steamcommunity.com/sharedfiles/filedetails/?id=3707546641

@@ -6,7 +6,7 @@ class CfgPatches
         units[] = { "ITR_ModuleObjectivePing", "ITR_ModuleObjectivePing_Zeus" };
         requiredVersion = 1.0;
         requiredAddons[] = { "A3_Modules_F", "A3_Modules_F_Curator", "A3_UI_F" };
-        author = "Mugen"; // if you're reading this, Hi! Whatcha have for lunch today? :3
+        author = "Mugen"; // if you're reading this, Hi! Whatcha have for lunch today? :3 uwu
     };
 };
 
