@@ -5,15 +5,21 @@
 	\     \____|  | \/\  ___// /_/ | |  ||  |  \___ \ 
 	 \______  /|__|    \___  >____ | |__||__| /____  >
 	        \/             \/     \/               \/ 
-			
-˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭
-None of the authors listed below explicitly endorse this project or any other authors associated with the project.
 
+˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭
+None of the authors listed below explicitly endorse this project or any other authors associated with the project. Another list of these mods can be found here: https://steamcommunity.com/sharedfiles/filedetails/?id=3499320171
+˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭
 ACEView
 https://steamcommunity.com/sharedfiles/filedetails/?id=3372876344
+(APL-ND)
+
+[UM] ACE Medical Additions
+https://steamcommunity.com/sharedfiles/managecollection/?id=3499320171
+(APL-SA)
 
 ACSTG AI Cannot See Through Grass
 https://steamcommunity.com/sharedfiles/filedetails/?id=2946868556
+(APL-ND)
 
 Advanced Vault System: Remastered
 https://steamcommunity.com/sharedfiles/filedetails/?id=2794721649
@@ -38,6 +44,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2372036642
 
 Digital Kompass
 https://steamcommunity.com/sharedfiles/filedetails/?id=2013447932
+(APL-SA)
 
 Exocet Immersive Reloads
 https://steamcommunity.com/sharedfiles/filedetails/?id=2931770233
@@ -47,6 +54,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2398240266
 
 Gruppe Adler Trenches
 https://steamcommunity.com/sharedfiles/filedetails/?id=1224892496
+(GRAD-APL)
 
 Immersive Hud
 https://steamcommunity.com/sharedfiles/filedetails/?id=3581479215
@@ -56,18 +64,23 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2886141254
 
 Incoming Transmission
 https://steamcommunity.com/sharedfiles/filedetails/?id=3617577520
+(APL)
 
 Incoming Transmission - Pings
 https://steamcommunity.com/sharedfiles/filedetails/?id=3620108975
+(APL)
 
 Incoming Transmission - Intel
 https://steamcommunity.com/sharedfiles/filedetails/?id=3621745931
+(APL)
 
 Ladder Tweak Remastered
 https://steamcommunity.com/sharedfiles/filedetails/?id=2969350304
+(APL-SA)
 
 Luminous Chemlights
 https://steamcommunity.com/sharedfiles/filedetails/?id=3706674360
+(APL-SA)
 
 MRB Air & Vehicle, Sea Vessel Visibility
 https://steamcommunity.com/sharedfiles/filedetails/?id=929396506
@@ -99,12 +112,14 @@ both required
 
 Simple MapTools
 https://steamcommunity.com/sharedfiles/filedetails/?id=2013446344
+(APL-SA)
 
 Splendid Smoke Rework (Fixed Signatures)
 https://steamcommunity.com/sharedfiles/filedetails/?id=2975443457
 
 Unconscious Collision Disabler
 https://steamcommunity.com/sharedfiles/filedetails/?id=3450571478
+(APL-SA)
 
 WBK Immersive Animations
 https://steamcommunity.com/sharedfiles/filedetails/?id=3165450999
@@ -120,3 +135,11 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1251859358
 
 Zeus Framerate Monitor Rework
 https://steamcommunity.com/sharedfiles/filedetails/?id=3707546641
+(APL-SA)
+˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭
+Licenses
+
+APL = https://www.bohemia.net/community/licenses/arma-public-license
+APL-SA = https://www.bohemia.net/community/licenses/arma-public-license-share-alike
+APL-ND = https://www.bohemia.net/community/licenses/arma-public-license-nd
+GRAD-APL = https://github.com/Salbei2500/grad_trenches/blob/master/LICENSE
